@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Milen+Donev!;" />
 </h1>
 
-<h3 align="center">A passionate junior frontend developer </h3>
+<h3 align="center">A passionate junior frontend developer currently looking for new opportunities </h3>
 
 <br/>
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,react,bootstrap,html,css,vscode,github,git,jest,postman," />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,react,bootstrap,html,css,vscode,git,jest,postman" />
     <img src="https://skillicons.dev/icons?i=javascript,firebase" /><br>
 </div>
 
