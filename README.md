@@ -18,7 +18,7 @@
  
  🔭 I’m currently working on **Portfolio projects**
  
- 🌱 I’m currently learning **MongoDB**
+ 🌱 I’m currently learning **TypeScript**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/MilenDonevv/MilenDonevv/issues)**
 
@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,react,bootstrap,html,css,vscode,git,jest,postman" />
-    <img src="https://skillicons.dev/icons?i=javascript,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,firebase",expressjs,mongodb/><br>
 </div>
 
 <br/>
