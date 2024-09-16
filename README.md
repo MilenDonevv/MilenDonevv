@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
+  <img src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="375" />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Portfolio projects**
+ <!-- 🔭 I’m currently working on **Portfolio projects**  --> <!-- Commented out -->
  
  🌱 I’m currently learning **TypeScript**
 
@@ -25,24 +25,27 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:milendonev95@gmail.com">
+  <a href="mailto:milendonev95@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/milen-donev-00b031227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://milendonevv.github.io/Portfolio-Website/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="./Milen_Donev_CV.pdf" target="_blank"> 
+     <img src="https://img.shields.io/badge/CV-0054D2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,react,bootstrap,html,css,vscode,git,jest,postman" />
-    <img src="https://skillicons.dev/icons?i=javascript,firebase,expressjs,mongodb"/><br>
+    <img src="https://skillicons.dev/icons?i=javascript,firebase,expressjs,mongodb,typescript,ajax,json"/><br>
 </div>
 
 <br/>
@@ -68,6 +71,3 @@
 </div>
 
 <br/><br/>
-
-
-
