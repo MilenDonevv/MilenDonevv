@@ -11,7 +11,13 @@
 </h1>
 
 ## 👩‍💻 A little more about me
-<h3 align="center">I am a passionate junior frontend developer currently based in Chirpan, Bulgaria, but I am also open to relocation. My coding journey started late 2022 while I was still living in Denmark and in the beginning of 2023 I already made my first steps with a little bit of Python, HTML, CSS and Javascript. Later that same year I relocated back to Bulgaria and devoted myself solely to coding. Started Alpha JS program in Telerik from the beginning of 2024 and a little over half a year later I was already able to build my own websites and also work in a group, as we had to do with our last 3 team projects in Telerik. You can check the 2 more adcanced ones [Here](https://reactprojecta58.github.io/PlanPal/) and [Here](https://reactprojecta58.github.io/ReactVenture/). The overall course in Telerik helped me aquire a lot of soft skills, such as being more emotionally intelligent and aware, being more organized and communicating more effectively with others, and also taught me almost everything I know now in terms of coding, which you can see in my [Portfolio here](https://milendonevv.github.io/Portfolio-Website/).
+<h3 align="center">I am a passionate junior frontend developer currently based in Chirpan, Bulgaria, but I am also open to relocation. My coding journey started late 2022 while I was still living in Denmark and in the beginning of 2023 I already made my first steps with a little bit of Python, HTML, CSS and Javascript. Later that same year I relocated back to Bulgaria and devoted myself solely to coding. Started Alpha JS program in Telerik from the beginning of 2024 and a little over half a year later I was already able to build my own websites and also work in a group, as we had to do with our last 3 team projects in Telerik. 
+
+You can check the two more advanced ones: [PlanPal](https://reactprojecta58.github.io/PlanPal/) and [ReactVenture](https://reactprojecta58.github.io/ReactVenture/). 
+
+The overall course in Telerik helped me aquire a lot of soft skills, such as being more emotionally intelligent and aware, being more organized and communicating more effectively with others, and also taught me almost everything I know now in terms of coding, which you can see in my 
+
+[Portfolio here](https://milendonevv.github.io/Portfolio-Website/).
 
 I am eager to start my first job in a real working environment and start using my skills for real-world projects, while being a part of a team where the process of learning and having fun never stops.</h3>
 
