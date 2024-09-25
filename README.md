@@ -43,7 +43,7 @@ I am eager to start my first job in a real working environment and start using m
   <a href="https://milendonevv.github.io/Portfolio-Website/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-  <a href="./Milen_Donev_CV.pdf" target="_blank"> 
+  <a href="./Milen_Donev_Resume.pdf" target="_blank"> 
      <img src="https://img.shields.io/badge/CV-0054D2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
