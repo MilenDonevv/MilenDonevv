@@ -54,7 +54,7 @@ I am eager to start my first job in a real working environment and start using m
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,react,bootstrap,html,css,vscode,git,jest,postman" />
-    <img src="https://skillicons.dev/icons?i=javascript,firebase,expressjs,mongodb,typescript,ajax,json"/><br>
+    <img src="https://skillicons.dev/icons?i=javascript,firebase,expressjs,mongodb,typescript"/><br>
 </div>
 
 <br/>
