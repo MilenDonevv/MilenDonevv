@@ -27,7 +27,7 @@ I am eager to start my first job in a real working environment and start using m
  
  <!-- 🔭 I’m currently working on **Portfolio projects**  --> <!-- Commented out -->
  
- 🌱 I’m currently learning **TypeScript**
+ 🌱 I’m currently learning **React Native**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/MilenDonevv/MilenDonevv/issues)**
 
